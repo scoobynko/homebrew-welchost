@@ -3,8 +3,8 @@ class Welchost < Formula
 
   desc "Create and manage a Ghostty terminal welcome screen"
   homepage "https://github.com/scoobynko/welchost"
-  url "https://files.pythonhosted.org/packages/99/b7/0c41e8c52fce1202a220e290ae0e904af11481599d3ab52f625dab37a38e/welchost-1.3.0.tar.gz"
-  sha256 "78078cbc85b33f0cc81265d2b2100d96636220e883d86416e4a842a9dacabb6d"
+  url "https://files.pythonhosted.org/packages/09/24/e61d52905ee61f739be75eb032f7397434005f955b31557bdd8939063de1/welchost-1.3.1.tar.gz"
+  sha256 "72f17498f2a1586855b6eee839588ddec9e85f036ce625dd88269d66d103a404"
   license "MIT"
 
   depends_on "python@3.13"
